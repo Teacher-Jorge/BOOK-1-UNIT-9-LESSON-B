@@ -55,6 +55,10 @@
     user-select: none;
 }
 
+#input6-2 {
+    width: 150px;
+}
+
 .videos {
     width: 600px;
     position: relative;

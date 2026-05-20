@@ -35,9 +35,6 @@ input2.addEventListener('keyup', (e) => {
 
 input3.addEventListener('keyup', (e) => {
     if(input3.value === "Yes" || input3.value === "Yes") {
-        word2.style.backgroundColor = 'lime'
-        word2.style.color = 'red'
-        word2.style.boxShadow = 'none'
         input3.style.color = 'green'
         const audio = document.getElementById('right')
         audio.play()
